@@ -1,7 +1,6 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ксения Григорьева](https://up.htmlacademy.ru/javascript/16/user/195458).
-* Наставник: `Неизвестно`.
 
 ---
 
